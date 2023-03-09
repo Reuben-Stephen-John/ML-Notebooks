@@ -1,4 +1,4 @@
 # exclude everything
-OpenCv/calibration/*
+OpenCv/calibration/dataset/*
 
 __pycache__/
