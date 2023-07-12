@@ -2,3 +2,8 @@
 OpenCv/calibration/dataset/*
 
 __pycache__/
+.env
+PyTorch/MobileNetV3/VOC2012/
+PyTorch/MNIST
+OpenCv/calibration/dataset
+OpenCv/object_detection/sus/
