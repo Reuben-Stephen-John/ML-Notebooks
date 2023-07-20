@@ -1,4 +1,4 @@
-# import the necessary packages
+#import the necessary packages
 from dotenv import load_dotenv
 load_dotenv()
 from imutils.video import VideoStream
@@ -130,4 +130,4 @@ vs.stop()
 
 # cd\
 # cd C:\Users\cocsa\OneDrive\Documents\VS\Python\robotics\Complete
-# python movingcar.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
+# python main.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel

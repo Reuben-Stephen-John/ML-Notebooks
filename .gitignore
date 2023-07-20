@@ -6,4 +6,6 @@ __pycache__/
 PyTorch/MobileNetV3/VOC2012/
 PyTorch/MNIST
 OpenCv/calibration/dataset
-OpenCv/object_detection/sus/
+OpenCv/IOT_detection/sus
+kaggle.json
+Classification-Models/dataset

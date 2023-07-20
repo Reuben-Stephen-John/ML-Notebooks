@@ -1,3 +1,3 @@
 # ML-Notebooks
 
-Learning and implementing AI-ML
+Hands on with all my ML projects
